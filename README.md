@@ -58,7 +58,17 @@ Fully Connected layer is a function from ℝ m to ℝ n. Each output dimension d
   
    <li>
     <h2>Predictions</h2>
-    example example example
+       Confusion matrix CNN:
+  <p></p>
+  <img src="Images/CM_CNN.png" hight="1000px"><br>
+  <p></p>
+   Confusion matrix Transfer-Learning:
+  <img src="Images/CM_TF.jpg" hight="1000px"><br>
+   <p></p>
+   Confusion matrix Fully Connected:
+   <p></p>
+   <img src="Images/CM_FC.png" hight="1000px"><br>
+  </li>
   </li>
 </ul>
 
