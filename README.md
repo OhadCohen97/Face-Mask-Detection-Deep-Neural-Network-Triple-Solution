@@ -57,7 +57,7 @@ Fully Connected layer is a function from ℝ m to ℝ n. Each output dimension d
   </li>
   
    <li>
-    <h2>Conclusion</h2>
+    <h2>Predictions</h2>
     example example example
   </li>
 </ul>
