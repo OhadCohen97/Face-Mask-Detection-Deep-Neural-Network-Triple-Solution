@@ -20,7 +20,7 @@ The data you can get for free from www.kaggle.com from the link <a href="https:/
    <li>
     <h2>Networks and Architecture</h2>
     <b>The first configuration</b> was built by us from end to end, the architecture used in this configuration is <li>CNN- Convolutional Neural Network which consists of several layers that implement feature extraction, and then classification.
-The CNN layers:
+The CNN layers:<img src="Images/CNN_model1.JPG" width="1000px">
   </li>
   
    <li>
