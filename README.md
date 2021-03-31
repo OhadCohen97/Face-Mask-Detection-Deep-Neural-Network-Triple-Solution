@@ -36,12 +36,11 @@ The third layer is another 1×1 convolution but without any non-linearity. It is
    I deleted 6 layers from the end of the network and added 1 Danse layer with Softmax function,because we need to know if the person is wearing a mask(1) or not(0).In addition, 23 layers from the end of network weren't trainable.
          The Transfer-Learning model:<img src="Images/Transfer Learning model.png" width="1000px">
          <p></p>
-          <b>The third configuration</b>I used is Fully Connected Network which consists of several Fully Connected hidden layers. 
+         <li> <b>The third configuration</b>I used is Fully Connected Network which consists of several Fully Connected hidden layers. 
 Fully Connected layer is a function from ℝ m to ℝ n. Each output dimension depends on each input dimension. 
 The Fully Connected Neural Network layers:
-<li>
+
    <br> <img src="report_images/fcn.png" hight="150px"><br>  
-  </li>
   
    <li>
     <h2>Training Process</h2>
