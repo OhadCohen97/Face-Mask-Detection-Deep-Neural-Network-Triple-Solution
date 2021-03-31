@@ -45,6 +45,7 @@ Fully Connected layer is a function from ℝ m to ℝ n. Each output dimension d
    <li>
     <h2>Training Results</h2>
       Loss and Accuracy CNN:
+  <p></p>
   <img src="Images/loss+acc CNN.png" hight="1000px"><br>
   </li>
   
