@@ -38,7 +38,7 @@ The third layer is another 1×1 convolution but without any non-linearity. It is
          <p></p>
          <li> <b>The third configuration</b> is Fully Connected Neural Network which consists of several Fully Connected hidden layers. 
 Fully Connected layer is a function from ℝ m to ℝ n. Each output dimension depends on each input dimension. 
-The Fully Connected Neural Network layers:
+           <p>The Fully Connected Neural Network layers:</p>
 
    <br> <img src="Images/Fully Connected model.png" hight="1000px"><br>  
   
