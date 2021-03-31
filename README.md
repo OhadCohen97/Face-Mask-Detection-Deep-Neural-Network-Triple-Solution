@@ -33,7 +33,7 @@ One is a residual block with stride of 1. Another one is a block with stride of 
 There are 3 layers for both types of blocks.This time, the first layer is 1×1 convolution with ReLU6.	The second layer is the depthwise convolution.
 The third layer is another 1×1 convolution but without any non-linearity. It is claimed that if RELU is used again, the deep networks only have the power of a linear classifier on the non-zero volume part of the output domain.to the network we imported we added a few fully connected layers of our own.
   <br> <img src="Images/mobileNet.JPG" width="1000px"> <br>
-   I deleted 6 layers from the end of the network and added 1 Danse layer with Softmax function,because we need need to know if the person is wearing a mask(1) or not(0).In addition, 23 layers from the end of network weren't trainable.
+   I deleted 6 layers from the end of the network and added 1 Danse layer with Softmax function,because we need to know if the person is wearing a mask(1) or not(0).In addition, 23 layers from the end of network weren't trainable.
          The Transfer-Learning model:<img src="Images/Transfer Learning model.png" width="1000px">
    
       
