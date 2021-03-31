@@ -40,7 +40,7 @@ The third layer is another 1×1 convolution but without any non-linearity. It is
 Fully Connected layer is a function from ℝ m to ℝ n. Each output dimension depends on each input dimension. 
 The Fully Connected Neural Network layers:
 
-   <br> <img src="report_images/fcn.png" hight="150px"><br>  
+   <br> <img src="Images/Fully Connected model.png" hight="1000px"><br>  
   
    <li>
     <h2>Training Process</h2>
