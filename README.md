@@ -22,7 +22,8 @@ The data you can get for free from www.kaggle.com from the link <a href="https:/
     <b>The first configuration</b> was built by us from end to end, the architecture used in this configuration is <li>CNN- Convolutional Neural Network which consists of several layers that implement feature extraction, and then classification.
     The CNN model:<img src="Images/CNN_model2.jpg" width="1000px">
       <p></p>
-     <br> CNN layers:<img src="Images/CNN_model1.png" width="1000px"></br>
+     CNN layers:<img src="Images/CNN_model1.png" width="1000px">
+        <p></p>
         <b>The second configuration</b> is a transfer-learning configuration, in that case we used the MobileNet V2 architecture. 
 MobileNetV2 is a convolutional neural network architecture that seeks to perform well on mobile devices. 
 It is based on an inverted residual structure where the residual connections are between the bottleneck layers.
